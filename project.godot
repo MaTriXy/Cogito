@@ -1,11 +1,3 @@
-; Engine configuration file.
-; It's best edited using the editor UI and not directly,
-; since the parameters that go here are not all obvious.
-;
-; Format:
-;   [section] ; section goes between []
-;   param=value ; assign values to parameters
-
 config_version=5
 
 [application]
@@ -17,6 +9,7 @@ run/max_fps=120
 boot_splash/fullsize=false
 boot_splash/image="res://addons/cogito/COGITO_Card_2025.png"
 config/icon="res://addons/cogito/COGITO_icon.png"
+config/tags=PackedStringArray("cogito", "official")
 
 [autoload]
 

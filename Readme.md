@@ -1,5 +1,14 @@
+# COGITO has moved to Codeberg!
+
+> [!IMPORTANT]
+> Please go the [Codeberg repo](https://codeberg.org/Phazorknight/Cogito) for the latest versions, documentation and issues.
+
+![COGITO_MovedToCodeberg](CogitoMovedToCodeberg.png)
+
 ![COGITO_banner](addons/cogito/COGITO_banner.jpg)
+
 # COGITO
+
 [![GodotEngine](https://img.shields.io/badge/Godot_4.4_stable-blue?logo=godotengine&logoColor=white)](https://godotengine.org/) [![COGITO](https://img.shields.io/badge/version_1.1.5-35A1D7?label=COGITO&labelColor=0E887A)](https://github.com/Phazorknight/Cogito)
 
 ## What is it?
